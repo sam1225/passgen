@@ -1,10 +1,8 @@
 """
-/*
 Program Name    : passgen.py
 Python version  : python3
 Description     : Passgen generates strong passwords using a combination of mix-case chars, numbers, & symbols.
 Date            : 26-FEB-2021
-*/
 """
 
 
